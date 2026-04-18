@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+*.log
+.env
+package-lock.json
+
+# Next.js
+.next/
+out/
+*.next/
+
+# Operating System files
+.DS_Store
+Thumbs.db
